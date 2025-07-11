@@ -1,3 +1,8 @@
 {
- "token": "your_token"
+ "ip": "KajuKatli-HAeA.aternos.me",
+ "port": "38858",
+ "name": "Kajukatli",  
+ "auto-night-skip": "false",
+ "loginmsg": "ana bot"
 }
+
